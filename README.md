@@ -7,8 +7,6 @@
 An end-to-end supply chain analytics project for **Just In Time**, a retail operation facing shipment delays, inventory imbalances, and limited visibility into operational performance. I performed data preprocessing and feature engineering in Python, then built a 5-view interactive Tableau dashboard covering business performance, inventory management, shipment investigation, and order fulfillment.
 
 **Tools:** Python (pandas, NumPy) · Tableau  
-**Tableau Dashboard:** [View Here](https://public.tableau.com/app/profile/poojapatel26/viz/SupplyChainAnalytics_16964651727060/SupplyChainAnalytics)
-
 ---
 
 ## Problem Statement
